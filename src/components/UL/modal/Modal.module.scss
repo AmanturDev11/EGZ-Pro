@@ -1,0 +1,22 @@
+.Modal {
+	.content {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		.cards {
+			display: flex;
+			justify-content: center;
+			.cardRes {
+				border: 2px solid;
+				border-radius: 5px;
+				width: 500px;
+				height: 150px;
+			}
+		}
+	}
+}
+// .cardRes {
+// 	display: flex;
+// 	justify-content: center;
+// 	align-items: center;
+// }
